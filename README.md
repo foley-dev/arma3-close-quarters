@@ -13,6 +13,17 @@
 * Typical duration: **10 min - 20 min**
 * [Mod dependencies](https://raw.githubusercontent.com/foley-dev/arma3-frogmen/assets/tour_modset.html) (load into Arma 3 Launcher)
 
+
+## Briefing
+
+> We have an international incident on our hands, a terrorist group invaded the *AAN broadcast station* - a major US-backed media outlet on Sahrani.\
+\
+The terrorists already shot multiple members of staff and fired at the first responders. They've also occupied the adjacent *tenement building*. There are more hostages still trapped inside but the terrorists are sending a gruesome message to the world, thus decision was made to go tactical ASAP.\
+\
+**Bring order to chaos, prevent further civilian casualties.**\
+\
+The terrorists ceased fire but they are easily provoked!
+
 ## Scripting highlights
 
 * Heavily scripted AI behaviour `scripts\server\ai.sqf`
@@ -33,3 +44,46 @@
 ![Screenshot](https://raw.githubusercontent.com/foley-dev/arma3-close-quarters/assets/screenshots/2.jpg)
 
 ![Screenshot](https://raw.githubusercontent.com/foley-dev/arma3-close-quarters/assets/screenshots/3.jpg)
+
+## Playable slots
+
+### Command
+* Commander
+
+### TAC-1
+* Team Leader
+* Operator (5.56)
+* Operator (9mm)
+* Operator (5.56)
+* Operator (9mm)
+
+### TAC-2
+* Team Leader
+* Operator (5.56)
+* Operator (9mm)
+* Operator (5.56)
+* Operator (9mm)
+
+### Sierra
+* Sniper
+* Spotter
+
+### Little Bird
+* Pilot
+* Co-pilot / Spotter
+
+### EMT-1
+* Paramedic
+* Paramedic
+
+### EMT-2
+* Paramedic
+* Paramedic
+
+### First responders
+* Police Sergeant
+* Police Officer
+* Police Officer
+* Police Officer
+* Police Officer
+* Police Officer

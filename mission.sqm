@@ -16,7 +16,7 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=796;
+		nextID=864;
 	};
 	class Camera
 	{
